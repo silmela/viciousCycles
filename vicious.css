@@ -44,8 +44,9 @@ header {
 /*Logo*/
 
 header #branding .logo{
-    max-width: 100%; height: auto;
-    float: left;
+    max-width: 100%; 
+    height: auto;
+    
 }
 
 header #branding {
